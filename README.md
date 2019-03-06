@@ -20,3 +20,7 @@ understand whats going on in the backgound.
 links to solve that problem. 
 
 # ScreenShots 
+![](screenshots/one.PNG)
+![](screenshots/two.PNG)
+![](screenshots/three.PNG)
+
